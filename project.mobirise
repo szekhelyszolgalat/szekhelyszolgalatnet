@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "szekhelyszolgalat.net",
+    "name": "TESZT-CHAT",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -59,10 +59,10 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "SzékhelySzolgálat.Net",
+        "title": "TESZT-CHAT",
         "meta_descr": "SzékhelySzolgálat.Net Kft. - Székhelyszolgáltatás Budapest belvárosában, 10 év tapasztalattal, több száz elégedett ügyféllel.",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<script type=\"text/javascript\">\n   var __cp = {};\n   __cp.license = 1963033189;\n\n   (function(){\n       var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;\n       s.src = ('https:' == window.location.protocol ? 'https://' : 'http://') + 'cdn.chatpirate.com/plugin.js';\n       var sc = document.getElementsByTagName('script')[0]; sc.parentNode.insertBefore(s, sc);\n   })();\n</script>",
         "html_before": ""
       },
       "components": [
