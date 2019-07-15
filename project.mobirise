@@ -62,7 +62,7 @@
         "title": "SzékhelySzolgálat.Net",
         "meta_descr": "SzékhelySzolgálat.Net Kft. - Székhelyszolgáltatás Budapest belvárosában, 10 év tapasztalattal, több száz elégedett ügyféllel.",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<!-- Load Facebook SDK for JavaScript -->\n<div id=\"fb-root\"></div>\n<script>\n  window.fbAsyncInit = function() {\n    FB.init({\n      xfbml            : true,\n      version          : 'v3.3'\n    });\n  };\n\n  (function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = 'https://connect.facebook.net/hu_HU/sdk/xfbml.customerchat.js';\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script>\n\n<!-- Your customer chat code -->\n<div class=\"fb-customerchat\"\n  attribution=setup_tool\n  page_id=\"137092526321635\"\n  theme_color=\"#20cef5\"\n  logged_in_greeting=\"Üdvözlöm!\"\n  logged_out_greeting=\"Üdvözlöm!\">\n</div>",
         "html_before": ""
       },
       "components": [
