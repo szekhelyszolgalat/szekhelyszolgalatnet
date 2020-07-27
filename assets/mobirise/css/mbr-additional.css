@@ -1958,7 +1958,7 @@ body {
 }
 @media (max-width: 550px) {
   .cid-rsGPJ3OuHi .price-figure {
-    font-size: 4.25rem;
+    font-size: 1.5rem;
   }
 }
 .cid-rsGPJ3OuHi UL {
@@ -2187,6 +2187,11 @@ body {
 .cid-s4CdQO8IlD .card-img span {
   font-size: 96px;
   color: #149dcc;
+}
+.cid-s5VoAhXuCu {
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-color: #efefef;
 }
 .cid-s5yF6Npg5g {
   padding-top: 45px;
