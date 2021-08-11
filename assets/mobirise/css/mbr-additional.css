@@ -1300,6 +1300,21 @@ section.lazy-placeholder:after {
 .cid-rsHszVHNyX .mbr-section-title {
   color: #232323;
 }
+.cid-stdTcbukKq {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-stdTcbukKq .mbr-text,
+.cid-stdTcbukKq blockquote {
+  color: #767676;
+}
+.cid-stdTcbukKq .mbr-text P {
+  text-align: center;
+}
+.cid-stdTcbukKq .mbr-text {
+  color: #ff3a33;
+}
 .cid-s4efMsFF0y {
   padding-top: 0px;
   padding-bottom: 30px;
