@@ -1,0 +1,126 @@
+@font-face {
+   font-family: 'Roboto';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/100.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/100italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/200italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/300italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/500italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/600italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/700italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/800italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Roboto';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///C:/Users/judit/Dropbox/Szekhelyszolgalat.Net%20Kft/Szerz%C5%91d%C3%A9sk%C3%B6t%C3%A9s/!!!!2025-07-01-t%C5%91l/szekhelyszolgalatnet-gh-pages/szekhelyszolgalatnet-gh-pages/fonts/Roboto/900italic.ttf') format('truetype');
+}
