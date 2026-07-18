@@ -13,6 +13,7 @@ body::before { content: ""; position: fixed; inset: 0; pointer-events: none; z-i
 .cid-unSoeMasTD { min-height: 82px; }
 .cid-unSoeMasTD .navbar { background: rgba(255,255,255,.96) !important; box-shadow: 0 3px 18px rgba(16,36,62,.06); }
 .cid-unSoeMasTD .navbar-logo img { border-radius: 11px; }
+.cid-unSoeMasTD .navbar-caption { color: var(--ink) !important; font-size: 1.05rem; font-weight: 800; letter-spacing: -.035em; margin-left: .7rem; white-space: nowrap; }
 .cid-unSoeMasTD .nav-dropdown .link { color: var(--ink) !important; font-size: .78rem; font-weight: 700; letter-spacing: .06em; }
 .cid-unSoeMasTD .nav-dropdown .link:hover { color: var(--coral) !important; }
 .cid-unSoeMasTD .navbar-buttons .btn { font-size: .75rem; padding: .62rem 1rem !important; background: #fff1ee !important; color: #c94d40 !important; border-color: transparent !important; }
@@ -67,4 +68,4 @@ body::before { content: ""; position: fixed; inset: 0; pointer-events: none; z-i
 .cid-unX1N26fZI { background: var(--ink); padding-top: 0; }
 .cid-unX1N26fZI .google-map iframe { border-radius: 16px !important; }
 @media (max-width: 991px) { .cid-unSoeMasTD .navbar-collapse { background: #fff; padding: 1rem; border-radius: 0 0 14px 14px; } .cid-unSoeMasTD .navbar-buttons { padding-top: .8rem; } .cid-unSoRpnZir { min-height: 640px; } }
-@media (max-width: 767px) { .cid-unSoRpnZir { min-height: 620px; } .cid-unSoRpnZir .container { text-align: center; } .cid-unSoRpnZir .mbr-section-title { font-size: 2.25rem; line-height: 1.02; overflow-wrap: normal; word-break: normal; } .cid-unSoRpnZir .mbr-section-btn { justify-content: center; flex-wrap: wrap; } .hero-proof { justify-content:center; gap:.6rem 1rem; } .cid-unSudThHXF { padding-top: 4.5rem; } .cid-uNIeUfHauQ { padding: 4.5rem 0; } .cid-uNIeUfHauQ .card-bg-item:nth-child(2) { transform:none; margin-top: 1.5rem; } }
+@media (max-width: 767px) { .cid-unSoeMasTD .navbar-caption { font-size: .9rem; margin-left: .45rem; } .cid-unSoRpnZir { min-height: 620px; } .cid-unSoRpnZir .container { text-align: center; } .cid-unSoRpnZir .mbr-section-title { font-size: 2.25rem; line-height: 1.02; overflow-wrap: normal; word-break: normal; } .cid-unSoRpnZir .mbr-section-btn { justify-content: center; flex-wrap: wrap; } .hero-proof { justify-content:center; gap:.6rem 1rem; } .cid-unSudThHXF { padding-top: 4.5rem; } .cid-uNIeUfHauQ { padding: 4.5rem 0; } .cid-uNIeUfHauQ .card-bg-item:nth-child(2) { transform:none; margin-top: 1.5rem; } }
